@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinicielho
-- 👀 I’m interested in Programming and networking
+- 👀 I’m interested in Learning and networking
 - 🌱 I’m currently learning Java, and about the oportunities in this brave new world.
 - 💞️ I’m looking to collaborate on open source projects and develop tools that would benefict many.
 - 📫 Reach me in viniciuscoelho1995@yahoo.com.br
